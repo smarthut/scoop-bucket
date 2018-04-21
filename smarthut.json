@@ -1,12 +1,12 @@
 {
-    "version": "0.5.1",
+    "version": "0.6.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/smarthut/smarthut/releases/download/v0.5.1/smarthut_0.5.1_Windows_386.tar.gz",
+            "url": "https://github.com/smarthut/smarthut/releases/download/v0.6.1/smarthut_0.6.1_Windows_386.tar.gz",
             "bin": "smarthut.exe"
         },
         "64bit": {
-            "url": "https://github.com/smarthut/smarthut/releases/download/v0.5.1/smarthut_0.5.1_Windows_x86_64.tar.gz",
+            "url": "https://github.com/smarthut/smarthut/releases/download/v0.6.1/smarthut_0.6.1_Windows_x86_64.tar.gz",
             "bin": "smarthut.exe"
         }
     },
