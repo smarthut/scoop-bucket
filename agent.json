@@ -1,12 +1,12 @@
 {
-    "version": "0.5.3",
+    "version": "0.6.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/smarthut/agent/releases/download/v0.5.3/agent_0.5.3_Windows_386.tar.gz",
+            "url": "https://github.com/smarthut/agent/releases/download/v0.6.0/agent_0.6.0_Windows_386.tar.gz",
             "bin": "agent.exe"
         },
         "64bit": {
-            "url": "https://github.com/smarthut/agent/releases/download/v0.5.3/agent_0.5.3_Windows_x86_64.tar.gz",
+            "url": "https://github.com/smarthut/agent/releases/download/v0.6.0/agent_0.6.0_Windows_x86_64.tar.gz",
             "bin": "agent.exe"
         }
     },
