@@ -1,15 +1,19 @@
 {
-    "version": "0.7.3",
+    "version": "0.8.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/smarthut/agent/releases/download/v0.7.3/agent_0.7.3_Windows_386.tar.gz",
-            "bin": "agent.exe",
-            "hash": "9b93f981ca63b86b5b40ef6ac964a76acbb45a0d261df9189cbdc2f666248c65"
+            "url": "https://github.com/smarthut/agent/releases/download/v0.8.0/agent_0.8.0_Windows_386.tar.gz",
+            "bin": [
+                "agent.exe"
+            ],
+            "hash": "38a6f243112828e6310a7f7a4f3a83966631b1f5af6c3c79318a239124f6c9ad"
         },
         "64bit": {
-            "url": "https://github.com/smarthut/agent/releases/download/v0.7.3/agent_0.7.3_Windows_x86_64.tar.gz",
-            "bin": "agent.exe",
-            "hash": "3bd2f30c60cc1d07e9ec94ff72fb6ca076b856c825b3af9d1ddfb93ec16d7f2f"
+            "url": "https://github.com/smarthut/agent/releases/download/v0.8.0/agent_0.8.0_Windows_x86_64.tar.gz",
+            "bin": [
+                "agent.exe"
+            ],
+            "hash": "4b9d66be058ffb42d06fc6e43d7db8c2c10c05806e79ad95aa630fa2d1c80ff4"
         }
     },
     "homepage": "https://github.com/smarthut/agent",
